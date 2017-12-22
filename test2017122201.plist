@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://image.tswlsys.com/flower/newFlower/omspic/1254290ceea648df820fd56abce6dcdf.jpg</string>
+                    <string></string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://image.tswlsys.com/flower/newFlower/omspic/min/1254290ceea648df820fd56abce6dcdf.jpg</string>
+                    <string></string>
                 </dict>
             </array>
             <key>metadata</key>
